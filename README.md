@@ -5,56 +5,53 @@ I'm a data analyst proficient in Python, SQL, Excel, PowerPoint and Tableau - th
 **PROJECTS**
 &nbsp;
 
-&nbsp;
-
 **Python & Tableau**
 
 Capstone II - Apartment Rental Price Analysis
-[Python Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Capstone%20II/Notebook%20-%20Capstone%20II.ipynb)
-[Tableau Presentation](https://public.tableau.com/app/profile/walker.dougherty/viz/ApartmentPrices_16903269033500/Story?publish=yes)
+Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Capstone%20II/Notebook%20-%20Capstone%20II.ipynb)
+Tableau [Presentation](https://public.tableau.com/app/profile/walker.dougherty/viz/ApartmentPrices_16903269033500/Story?publish=yes)
 &nbsp;
 
 
 **SQL**
 
 Case Study - AEMR
-[SQL Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20AEMR/Case%20Study%20-%20AEMR.ipynb)
+SQL [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20AEMR/Case%20Study%20-%20AEMR.ipynb)
 &nbsp;
 
 
 **Python**
 
 Case Study - Southern Water Corp.
-[Python Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20Southern%20Water%20Corp%20(Python)/Southern%20Water%20Corp%20Case%20Study%20(Walker%20Dougherty).ipynb)
+Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20Southern%20Water%20Corp%20(Python)/Southern%20Water%20Corp%20Case%20Study%20(Walker%20Dougherty).ipynb)
 
 Mini Project - NYC Airbnb
-[Python Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20NYC%20Airbnb%20Data%20Exploration/NYC%20Airbnb%20-%20Mini%20Project.ipynb)
+Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20NYC%20Airbnb%20Data%20Exploration/NYC%20Airbnb%20-%20Mini%20Project.ipynb)
 &nbsp;
 
 
 **Excel & Tableau**
 
 Capstone I - Red Wine Investment Analysis
-[Excel Workbook](https://1drv.ms/x/s!AuASseIpjOmagif5d805McuIVwJ1?e=0BUKOr)
-[Tableau Presentation](https://public.tableau.com/app/profile/walker.dougherty/viz/Wine_16829858424770/Story)
+Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagif5d805McuIVwJ1?e=0BUKOr)
+Tableau [Presentation](https://public.tableau.com/app/profile/walker.dougherty/viz/Wine_16829858424770/Story)
 &nbsp;
-
 
 **Excel & PowerPoint**
 
 Case Study - Southern Water Corp.
 
 Economic Analysis
-[Excel Workbook](https://1drv.ms/x/s!AuASseIpjOmagQT48zWrVk8f2FFx?e=9lRDWz)
-[PowerPoint Presentation](https://1drv.ms/p/s!AuASseIpjOmagQbPBKoJ4eAwGT2c?e=bGwwHr)
+Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQT48zWrVk8f2FFx?e=9lRDWz)
+PowerPoint [Presentation](https://1drv.ms/p/s!AuASseIpjOmagQbPBKoJ4eAwGT2c?e=bGwwHr)
 
 Financial Analysis
-[Excel Workbook](https://1drv.ms/x/s!AuASseIpjOmagQCZb5cXaB86gTT3?e=tKxw0t)
-[PowerPoint Presentation](https://1drv.ms/p/s!AuASseIpjOmagSUF-qRG-8V3TzK9?e=LaePsi)
+Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQCZb5cXaB86gTT3?e=tKxw0t)
+PowerPoint [Presentation](https://1drv.ms/p/s!AuASseIpjOmagSUF-qRG-8V3TzK9?e=LaePsi)
 
 Statistical Analysis
-[Excel Workbook](https://1drv.ms/x/s!AuASseIpjOmagQkfA3HzfFGNpe-Q?e=eJ0zr0)
-[PowerPoint Presentation](https://1drv.ms/p/s!AuASseIpjOmagQuMpFGMr8-iFKJY?e=YDiUJd)
+Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQkfA3HzfFGNpe-Q?e=eJ0zr0)
+PowerPoint [Presentation](https://1drv.ms/p/s!AuASseIpjOmagQuMpFGMr8-iFKJY?e=YDiUJd)
 
 
 
