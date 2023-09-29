@@ -52,7 +52,7 @@ Capstone I - Red Wine Investment Analysis
 
 Case Study - Southern Water Corp.
 
-*Economic Analysis
+- Economic Analysis
 
 >Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQT48zWrVk8f2FFx?e=9lRDWz)
 
@@ -60,7 +60,7 @@ Case Study - Southern Water Corp.
 
 &nbsp;
 
-*Financial Analysis
+- Financial Analysis
 
 >Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQCZb5cXaB86gTT3?e=tKxw0t)
 
@@ -68,7 +68,7 @@ Case Study - Southern Water Corp.
 
 &nbsp;
 
-*Statistical Analysis
+- Statistical Analysis
 
 >Excel [Workbook](https://1drv.ms/x/s!AuASseIpjOmagQkfA3HzfFGNpe-Q?e=eJ0zr0)
 
