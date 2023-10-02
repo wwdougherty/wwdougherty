@@ -20,7 +20,7 @@ Capstone II - Apartment Rental Price Analysis
 
 Case Study - AEMR
 
->SQL [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20AEMR/Case%20Study%20-%20AEMR.ipynb)
+>SQL [Script](https://github.com/wwdougherty/wwdougherty/blob/main/Case%20Study%20-%20AEMR.ipynb)
 
 &nbsp;
 
