@@ -10,7 +10,7 @@ I'm a data analyst proficient in Python, SQL, Excel, PowerPoint and Tableau - th
 
 Capstone II - Apartment Rental Price Analysis
 
->Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Capstone%20II/Notebook%20-%20Capstone%20II.ipynb)
+>Python [Script](Notebook - Capstone II.md)
 
 >Tableau [Presentation](https://public.tableau.com/app/profile/walker.dougherty/viz/ApartmentPrices_16903269033500/Story?publish=yes)
 
