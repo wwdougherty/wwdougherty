@@ -21,6 +21,7 @@ Capstone II - Apartment Rental Price Analysis
 Case Study - AEMR
 
 >SQL [Script](https://github.com/wwdougherty/wwdougherty/blob/main/Case%20Study%20-%20AEMR.ipynb)
+
 >PowerPoint [Presentation](https://1drv.ms/p/s!AuASseIpjOmagT20pm3AXWBbr7dR?e=ptFXtf)
 
 &nbsp;
