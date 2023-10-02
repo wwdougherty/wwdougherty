@@ -28,13 +28,13 @@ Case Study - AEMR
 
 Case Study - Southern Water Corp.
 
->Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20Southern%20Water%20Corp%20(Python)/Southern%20Water%20Corp%20Case%20Study%20(Walker%20Dougherty).ipynb)
+>Python [Script](https://github.com/wwdougherty/wwdougherty/blob/main/Southern%20Water%20Corp%20Case%20Study%20(Walker%20Dougherty).ipynb)
 
 &nbsp;
 
 Mini Project - NYC Airbnb
 
->Python [Script](http://localhost:8888/notebooks/Documents/Documents/Springboard/Projects/Case%20Study%20-%20NYC%20Airbnb%20Data%20Exploration/NYC%20Airbnb%20-%20Mini%20Project.ipynb)
+>Python [Script](https://github.com/wwdougherty/wwdougherty/blob/main/NYC%20Airbnb%20-%20Mini%20Project.ipynb)
 
 &nbsp;
 
