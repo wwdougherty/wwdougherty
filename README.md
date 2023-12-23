@@ -18,7 +18,7 @@ Capstone II - Apartment Rental Price Analysis
 
 **SQL & PowerPoint**
 
-Case Study - AEMR
+Case Study - Energy Regulator
 
 >SQL [Script](https://github.com/wwdougherty/wwdougherty/blob/main/Case%20Study%20-%20AEMR.ipynb)
 
